@@ -3,8 +3,7 @@ layout: default
 title: About Us
 description: Learn more about the group behind Helping Hand
 ---
-
-|**Christine Mitroff** <br/> **Team Leader** <br/> DEGREE <br/> Focus: XXX <br/> [LinkedIn](https://linkedIn.com) & [GitHub](https://github.com) | ![Christine Mitroff]({{site.baseurl}}/assets/css/octocat.png) |
+|<span style="font-weight:normal">**Christine Mitroff** <br/> **Team Leader** <br/> DEGREE <br/> Focus: XXX <br/> [LinkedIn](https://linkedIn.com) & [GitHub](https://github.com)</span>|<span style="font-weight:normal">![Christine Mitroff]({{site.baseurl}}/assets/css/octocat.png) </span> |
 |:---------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------:|
 |**Brandon Potter** <br/> **Co-Leader** <br/> DEGREE <br/> Focus: XXX <br/> [LinkedIn](https://linkedIn.com)  & [GitHub](https://github.com) | ![Brandon Potter]({{site.baseurl}}/assets/css/octocat.png) |
 |**Willie Feng-Lu** <br/>                 <br/> DEGREE <br/> Focus: XXX <br/> [LinkedIn](https://linkedIn.com)  & [GitHub](https://github.com) | ![Willie Feng-Lu]({{site.baseurl}}/assets/css/octocat.png) |
