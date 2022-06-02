@@ -5,10 +5,8 @@ description: 3D-Printed Hand
 ---
 
 # Goal
-Our goal in creating the design of the hand was to make something that is easy to 3D-print, have ways to access and change internal components if needed.
-
-# Final Product
-Our final product 
+Our goal in creating the mechanical design of the hand was to make something that is easy to 3D-print, and something that provided ease of access to internal components so that we could make adjustments readily. If you look through our iterations and our final design, you will notice that all of our parts fit together using friction fit. We wanted our product to be easily assembled and taken apart so that we would troubleshoot and replace parts conveniently. This made for easier prototyping, and helped us simplify our design. In addition, we also wanted our hand to be anatomical so that it looks clearly like a hand.
+# Final Product 
 <p align="center">
   <img width="460" height="550" src="https://github.com/EE-Emerge/EE-Emerge2022_GestureRecognition/blob/gh-pages/assets/css/pictureOfFinalHand.jpg?raw=true">
 </p>
@@ -39,5 +37,5 @@ The next thing that we focussed on was making servo mounts inside the arm. We ma
   <img width="400" height="600" src="https://github.com/EE-Emerge/EE-Emerge2022_GestureRecognition/tree/gh-pages/assets/css?raw=true">
 </p>
 
-If you look back through our pictures and our final design, you will notice that all of our parts fit together using friction fit. We wanted our product to be easily assembled and taken apart so that we would troubleshoot and replace parts conveniently. This made for easier prototyping, and helped us simplify our design.
+
 
