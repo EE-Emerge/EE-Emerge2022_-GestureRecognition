@@ -34,5 +34,10 @@ We also began creating our fingers. Here we included a separate piece for each p
   <img width="400" height="600" src="https://github.com/EE-Emerge/EE-Emerge2022_GestureRecognition/blob/gh-pages/assets/css/fingerPicture.png?raw=true">
 </p>
 
-The next thing that we focussed on was making servo mounts inside the arm. We made mounts for 5 servo motors. A lot of our iteration used friction fit!!!
+The next thing that we focussed on was making servo mounts inside the arm. We made mounts for 5 servo motors.
+<p align="center">
+  <img width="400" height="600" src="https://github.com/EE-Emerge/EE-Emerge2022_GestureRecognition/tree/gh-pages/assets/css?raw=true">
+</p>
+
+If you look back through our pictures and our final design, you will notice that all of our parts fit together using friction fit. We wanted our product to be easily assembled and taken apart so that we would troubleshoot and replace parts conveniently. This made for easier prototyping, and helped us simplify our design.
 
