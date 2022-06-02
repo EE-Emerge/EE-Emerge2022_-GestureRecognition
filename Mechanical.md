@@ -9,6 +9,9 @@ Our goal in creating the design of the hand was to make something that is easy t
 
 # Final Product
 Our final product 
+<p align="center">
+  <img width="460" height="460" src="https://github.com/EE-Emerge/EE-Emerge2022_GestureRecognition/blob/gh-pages/assets/css/pictureOfFinalHand.jpg?raw=true">
+</p>
 
 # Previous Iterations and Challenges
 At the beginning of this project, our hand was simply a block with straight holes creating routes for the fishing line. This was for proof of concept and to see the project work without supports making an easier print. 
