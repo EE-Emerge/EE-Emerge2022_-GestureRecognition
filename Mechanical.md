@@ -26,7 +26,7 @@ Then we moved towards a more anatomical design, creating a rounded palm.
 
 Next we elongated the palm to make the hand more realistic, and created a wrist portion that could friction fit onto our hand and enclose our hardware.
 <p align="center">
-  <img width="460" height="460" src="https://github.com/EE-Emerge/EE-Emerge2022_GestureRecognition/blob/gh-pages/assets/css/old_assembly.png?raw=true">
+  <img width="460" height="550" src="https://github.com/EE-Emerge/EE-Emerge2022_GestureRecognition/blob/gh-pages/assets/css/old_assembly.png?raw=true">
 </p>
 
 After that we decided to elongate the palm portion of the hand and focused on making fingers. Then we made finger caps. Then we made knuckles so the fingers don’t flail around. Then we made the arm part, and then we made servo mounts, then we made mounts for all 5 servo motors. A lot of iteration used friction fit!!!
