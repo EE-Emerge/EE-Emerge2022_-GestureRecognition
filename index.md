@@ -10,6 +10,7 @@ description: EE-Emerge Helping Hand 2021-2022
         width="560"
         height="315"
         frameborder="0"
+        align="center"
         allowfullscreen>
 </iframe>
 
