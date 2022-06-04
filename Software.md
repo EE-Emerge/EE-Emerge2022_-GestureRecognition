@@ -8,7 +8,7 @@ description: OpenMV Camera and MSP430 Logic for Gesture Recognition
 
 ## OpenMV Camera
 The gesture recognition of our project is centered around the use of an OpenMV camera and a training model from EdgeImpulse. It starts by taking picture of the background using it as a basis for background subtraction. After determining the difference of the current image and the background image, a binary filter was used to more cleanly define the hand shape. The conversion to binary images had solved multiple issues such as providing smaller image sizes, circumventing skin color issues, etc. Afterwards, the image is classified by the training model we have on the SD card and thus, we have our detection of an open, closed, and blank state. The state is then communicated to the MSP430 through UART.
-<video src="https://github.com/EE-Emerge/EE-Emerge2022_GestureRecognition/blob/gh-pages/assets/css/SoftwareDemo.mov" controls="controls" style="max-width: 730px;">
+<video src="https://github.com/EE-Emerge/EE-Emerge2022_GestureRecognition/blob/gh-pages/assets/css/SoftwareDemo.mov?raw=true" controls="controls" style="max-width: 730px;">
 </video>
 
 
