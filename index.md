@@ -8,7 +8,7 @@ description: EE-Emerge Helping Hand 2021-2022
 [Helping Hand](https://github.com/EE-Emerge/EE-Emerge2022_GestureRecognition) is a standalone gesture recognition project which connects to a 3D-printed hand. The camera will detect whether a hand is closed or open and make the 3D-printed hand mimic the same position. This project was made in a team of EE-Emerge students at UC Davis.
 
 <p align="center">
-        <iframe src="https://www.youtube.com/embed/4b-WMEtJNqc"
+        <iframe src="https://www.youtube.com/embed/lSThi_XO16U"
                 width="560"
                 height="315"
                 frameborder="0"
@@ -16,7 +16,7 @@ description: EE-Emerge Helping Hand 2021-2022
         </iframe>
 </p>
 <p align="center">
-        <iframe src="https://www.youtube.com/embed/lSThi_XO16U"
+        <iframe src="https://www.youtube.com/embed/4b-WMEtJNqc"
                 width="560"
                 height="315"
                 frameborder="0"
