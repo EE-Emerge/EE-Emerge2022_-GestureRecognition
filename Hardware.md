@@ -68,7 +68,7 @@ Although these would be great for more advanced implementations of hands, they a
 ## Our Choice: MSP 430 Microcontroller
 The MSP430 was chosen as the main control for the servos due to its easy and flexible scripting features, simple UART communication (through Energia IDE), and lower power usage. 
 
-### Micro Maestro 6-Channel USB Servo Controller
+### Micro Maestro 6-Channel USB Servo Controller Issues
 The Micro Maestro would have been used to create PWM signals necessary to drive each of the motors and motions individually.
 **Advantage:** More fingers could be moved independently versus MSP430's support for 2 channels of PWM signals
 **Disadvantage:** Issues getting the board to communicate and interface was more limited than the MSP430.
