@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hardware
-description: Rechargable Battery
+description: Power Delivery System and Servo Control
 ---
 
 
