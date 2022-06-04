@@ -34,7 +34,7 @@ We also began creating our fingers. Here we included a separate piece for each p
 
 The next thing that we focused on was making servo mounts inside the arm. We made mounts for 5 servo motors.
 <p align="center">
-  <img width="400" height="500" src="https://github.com/EE-Emerge/EE-Emerge2022_GestureRecognition/blob/gh-pages/assets/css/FiveMounts.png?raw=true">
+  <img width="400" height="400" src="https://github.com/EE-Emerge/EE-Emerge2022_GestureRecognition/blob/gh-pages/assets/css/FiveMounts.png?raw=true">
 </p>
 
 
